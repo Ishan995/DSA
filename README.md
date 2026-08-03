@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Ishan995/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ishan995/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0904-fruit-into-baskets](https://github.com/Ishan995/DSA/tree/master/0904-fruit-into-baskets) |
 ## Hash Table
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Ishan995/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ishan995/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
 |  |
