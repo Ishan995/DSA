@@ -18,15 +18,16 @@ class Solution:
         k = k % length
         if k==0:
             return head
+        else:
 
-        # Move to pivot and rotate
-        curr=head
-        for i in range(length-k-1):
-            curr=curr.next
-        newHead=curr.next
-        curr.next=None
-        tail.next=head
-        return newHead
+            # Move to pivot and rotate
+            curr=head
+            for i in range(length-k-1):
+                curr=curr.next
+            newHead=curr.next
+            curr.next=None
+            tail.next=head
+            return newHead
 
 
 
