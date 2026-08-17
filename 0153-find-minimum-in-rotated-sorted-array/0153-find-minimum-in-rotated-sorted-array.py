@@ -9,9 +9,9 @@ class Solution:
             guess=(low+high)//2
             if nums[guess]>nums[n-1]:   #(agar element part 2 mein hain)
                 low=guess+1
-            else:                       #(agar lement part 2 mein ho)
+            else:                       #(agar element part 1 mein ho)
                 res=nums[guess]
-                high=guess-1
+                high=guess-1            # first occurence dhundne ke liye kyunki woh min
 
         return res
 
