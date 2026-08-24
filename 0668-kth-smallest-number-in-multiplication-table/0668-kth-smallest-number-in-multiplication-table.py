@@ -2,7 +2,7 @@ class Solution:
     def fun(self, m: int, n: int, guess: int) -> int:
         count = 0
         for i in range(1, m + 1):
-            count += min(guess // i, n)
+            count += min(guess // i, n)  #here i is the row number(1 indexed)
         return count
 
     def findKthNumber(self, m: int, n: int, k: int) -> int:
