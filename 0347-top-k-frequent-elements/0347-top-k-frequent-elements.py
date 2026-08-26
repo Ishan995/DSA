@@ -1,30 +1,44 @@
+import heapq
+from collections import Counter
+from typing import List
+
+# Pair class matching your handwritten syntax
+class Pair:
+    def __init__(self, first: int, second: int):
+        self.first = first    # frequency
+        self.second = second  # number element
+
+    def __lt__(self, other: "Pair") -> bool:
+        # Min-heap comparison based on frequency
+        if self.first != other.first:
+            return self.first < other.first
+        else:
+            # For LC 347, tie-breaking order doesn't matter,
+            # so standard comparison works perfectly.
+            return self.second < other.second
+
+
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
         # Step 1: Count frequency of each element
         freq_map = Counter(nums)
-        
-        # Min-heap to store pairs of (freq, element)
+
+        # Step 2: Min-heap using your Pair object
         pq = []
-        
-        # Step 2: Iterate through frequency map (auto i : mp)
+
         for element, freq in freq_map.items():
-            curr = (freq, element)
-            
-            # If heap size is less than k, push and continue
+            curr = Pair(freq, element)
+
             if len(pq) < k:
                 heapq.heappush(pq, curr)
-                continue
-            
-            # Compare current frequency with top of min-heap
-            if freq <= pq[0][0]:
-                continue
-            
-            heapq.heappop(pq)
-            heapq.heappush(pq, curr)
-            
-        # Step 3: Extract elements from the heap into result vector
+            else:
+                # Push curr first, then pop top element (smallest priority)
+                heapq.heappushpop(pq, curr)
+
+        # Step 3: Extract elements using your p.second syntax
         res = []
         while pq:
-            res.append(heapq.heappop(pq)[1])
-            
+            p = heapq.heappop(pq)
+            res.append(p.second)
+
         return res
