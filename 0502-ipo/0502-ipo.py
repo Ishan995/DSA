@@ -15,12 +15,12 @@ class Solution:
                 if proj[idx][0]>w:
                     break
                 else:
-                    heapq.heappush(max_pq,-proj[idx][1])
+                    heapq.heappush(max_pq,-proj[idx][1])  #minus sign coz of max heap
                     idx+=1
             if not max_pq:
                 return w
             else:
-                w+= -heapq.heappop(max_pq)
+                w+= -heapq.heappop(max_pq) #minus sign coz of max heap
         return w
 
         
