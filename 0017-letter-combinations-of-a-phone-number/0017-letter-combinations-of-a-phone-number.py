@@ -16,19 +16,25 @@ class Solution:
         diary=[]
 
         def fun(s,n,idx,diary,res):
+
+            #step 1:identify stages and step 2:idx
+            
             if idx==n:
                 res.append("".join(diary))
                 return res
             
+            #step3: choice?
             choice=digitToChar[s[idx]]
 
+            #loop for all choices
             for j in range (len(choice)):
+                #step 4
                 diary.append(choice[j])
                 fun(s,n,idx+1,diary,res)
                 diary.pop()
 
             return res
-        
+        #step 5
         fun(digits,len(digits),0,diary,res)
         return res
         
