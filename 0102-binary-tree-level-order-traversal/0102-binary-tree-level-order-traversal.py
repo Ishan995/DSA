@@ -8,28 +8,26 @@ class Solution:
     def levelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
         if not root:
             return []
-        q = deque([root])
-        ans = []
-        
+
+        q=deque([root])
+        ans=[]
+
         while q:
-            lvlSize = len(q)       # int lvlsize = q.size();
-            tmp = []               # vector<int> tmp;
-            
-            while lvlSize > 0:     # while (lvlSize--)
-                t = q.popleft()    # Node* t = q.front(); q.pop();
-                tmp.append(t.val)  # tmp.push_back(t->data);
-                
-                if t.left:         # if (t->left != null)
-                    q.append(t.left) # q.push(t->left);
-                    
-                if t.right:        # if (t->right != null)
-                    q.append(t.right) # q.push(t->right);
-                
-                lvlSize -= 1       # Manual decrement (the '--' part)
-            
-            ans.append(tmp)        # res.push_back(tmp);
-            
+            lvlsize=len(q)
+            tmp=[]
+
+            for i in range(lvlsize):
+                t=q.popleft()
+                tmp.append(t.val)
+
+                if t.left:
+                    q.append(t.left)
+                if t.right:
+                    q.append(t.right)
+
+            ans.append(tmp)
         return ans
+    
 
 
 
