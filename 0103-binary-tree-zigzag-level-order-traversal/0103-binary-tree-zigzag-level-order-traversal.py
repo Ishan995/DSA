@@ -23,7 +23,7 @@ class Solution:
             first = 0
             last = lvlSize - 1
             
-            for _ in range(lvlSize):
+            for i in range(lvlSize):
                 t = q.popleft()
                 
                 # Fill array from front (left-to-right) or back (right-to-left)
