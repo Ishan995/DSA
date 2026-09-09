@@ -14,12 +14,15 @@ class Solution:
 
         while q:
             lvlsize=len(q)
-            tmp=[]
+            tmp=[0]*lvlsize
+            first=0
+            last=lvlsize-1
 
             for i in range(lvlsize):
                 t=q.popleft()
-                tmp.append(t.val)
-
+                tmp[first]=t.val
+                first+=1
+                
                 if t.left:
                     q.append(t.left)
                 if t.right:
