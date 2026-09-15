@@ -13,8 +13,7 @@ class Solution:
             left=fun(root.left)
             right=fun(root.right)
 
-            height=1+max(left,right)
-            return height
+            return 1+max(left,right)
 
         return fun(root)
         
