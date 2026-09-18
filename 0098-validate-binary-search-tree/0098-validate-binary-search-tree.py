@@ -10,7 +10,7 @@ class Solution:
         ans=True
         def fun(root):
             nonlocal prev,ans
-            if root is None:
+            if not root:
                 return 
             
             fun(root.left)
