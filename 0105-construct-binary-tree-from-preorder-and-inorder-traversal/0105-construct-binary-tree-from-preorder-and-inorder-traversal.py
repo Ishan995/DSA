@@ -6,7 +6,7 @@
 #         self.right = right
 class Solution:
     def buildTree(self, preorder: List[int], inorder: List[int]) -> Optional[TreeNode]:
-        idx = 0 #index of preorder array
+        idx = 0 #index of preorder array #start from first index because preorder is root,left,right
         inorder_map = {}
 
         # 1. Store inorder value -> index for O(1) lookup
