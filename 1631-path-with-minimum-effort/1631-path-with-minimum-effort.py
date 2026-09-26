@@ -32,6 +32,5 @@ class Solution:
                     res[r][c]=newwt
                     heapq.heappush(pq,(newwt,r,c))
         return res[n-1][m-1]
-            
-
-        
+                
+           
