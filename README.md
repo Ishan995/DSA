@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Ishan995/DSA/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Ishan995/DSA/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/Ishan995/DSA/tree/master/0509-fibonacci-number) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Ishan995/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Ishan995/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Ishan995/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Ishan995/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/Ishan995/DSA/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/Ishan995/DSA/tree/master/0767-reorganize-string) |
 | [0778-swim-in-rising-water](https://github.com/Ishan995/DSA/tree/master/0778-swim-in-rising-water) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Ishan995/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/Ishan995/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1631-path-with-minimum-effort](https://github.com/Ishan995/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Quickselect
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/Ishan995/DSA/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Ishan995/DSA/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Ishan995/DSA/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Ishan995/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/Ishan995/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
@@ -483,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/Ishan995/DSA/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Ishan995/DSA/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Ishan995/DSA/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Ishan995/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Ishan995/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Ishan995/DSA/tree/master/0994-rotting-oranges) |
 | [1631-path-with-minimum-effort](https://github.com/Ishan995/DSA/tree/master/1631-path-with-minimum-effort) |
@@ -525,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Ishan995/DSA/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/Ishan995/DSA/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Ishan995/DSA/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Ishan995/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Graph Coloring
 |  |
 | ------- |
@@ -537,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Ishan995/DSA/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Ishan995/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
