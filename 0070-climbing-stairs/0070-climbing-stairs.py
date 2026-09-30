@@ -12,7 +12,7 @@ class Solution:
             a2=fun(i+2,n)
             ans=a1+a2
             dp[i]=ans
-            return ans
+            return dp[i]
         return fun(0,n)
 
          
