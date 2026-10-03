@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Ishan995/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Ishan995/DSA/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Ishan995/DSA/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/Ishan995/DSA/tree/master/0509-fibonacci-number) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ishan995/DSA/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Ishan995/DSA/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Ishan995/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Ishan995/DSA/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/Ishan995/DSA/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Ishan995/DSA/tree/master/0152-maximum-product-subarray) |
@@ -593,4 +595,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/Ishan995/DSA/tree/master/1143-longest-common-subsequence) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Ishan995/DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
