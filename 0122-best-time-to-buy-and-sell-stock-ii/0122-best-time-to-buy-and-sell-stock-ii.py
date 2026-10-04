@@ -14,7 +14,7 @@ class Solution:
                     no=dp[i+1][j]
                     dp[i][j]=max(yes,no)
                 else:  #j==1  #sell state
-                    yes=dp[i+1][2]+a[i]
+                    yes=dp[i+1][2]+a[i] #make j=2 again to get multiple trans
                     no=dp[i+1][j]
                     dp[i][j]=max(yes,no)
         return dp[0][2]
