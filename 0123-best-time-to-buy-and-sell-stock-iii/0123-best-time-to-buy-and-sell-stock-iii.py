@@ -1,5 +1,6 @@
 class Solution:
     def maxProfit(self, prices: list[int]) -> int:
+        #k=4 (no of trans)
         a=prices
         n=len(a)
         dp=[[-1 for _ in range(5)]for _ in range(n+1)]
