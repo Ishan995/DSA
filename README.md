@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Ishan995/DSA/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ishan995/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Ishan995/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Ishan995/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1631-path-with-minimum-effort](https://github.com/Ishan995/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Ishan995/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Hash Table
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/Ishan995/DSA/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/Ishan995/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ishan995/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Ishan995/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Quicksort
 |  |
 | ------- |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/Ishan995/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1143-longest-common-subsequence](https://github.com/Ishan995/DSA/tree/master/1143-longest-common-subsequence) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Ishan995/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Ishan995/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Ishan995/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Queue
 |  |
