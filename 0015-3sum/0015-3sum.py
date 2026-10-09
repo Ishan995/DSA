@@ -1,35 +1,36 @@
 class Solution:
     def threeSum(self, nums: list[int]) -> list[list[int]]:
-        res = []
         nums.sort()
-
-        for i, a in enumerate(nums):
-
-            # Skip duplicate values for the first number
-            if i > 0 and a == nums[i - 1]:
-                continue
-
-            # Two pointers
-            l = i + 1
-            r = len(nums) - 1
-
-            while l < r:
-
-                total = a + nums[l] + nums[r]
-
-                if total > 0:
-                    r -= 1
-
+        n = len(nums)
+        result = []
+        
+        # 1. Fix the first number
+        for i in range(n - 2):
+            if i > 0 and nums[i] == nums[i - 1]:
+                continue  # Skip duplicate for the first number
+                
+            # 2. Use two pointers for the remaining two numbers
+            left = i + 1
+            right = n - 1
+            
+            while left < right:
+                total = nums[i] + nums[left] + nums[right]
+                
+                if total == 0:
+                    result.append([nums[i], nums[left], nums[right]])
+                    left += 1
+                    right -= 1
+                    
+                    # Skip duplicates for left and right pointers
+                    while left < right and nums[left] == nums[left - 1]:
+                        left += 1
+                    while left < right and nums[right] == nums[right + 1]:
+                        right -= 1
+                        
                 elif total < 0:
-                    l += 1
-
+                    left += 1   # Sum is too small, move left up
                 else:
-                    res.append([a, nums[l], nums[r]])
-
-                    l += 1
-
-                    # Skip duplicate second numbers
-                    while l < r and nums[l] == nums[l - 1]:
-                        l += 1
-
-        return res
+                    right -= 1  # Sum is too big, move right down
+                    
+        return result
+        
