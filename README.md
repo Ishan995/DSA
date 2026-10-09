@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Ishan995/DSA/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/Ishan995/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ishan995/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Ishan995/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0621-task-scheduler](https://github.com/Ishan995/DSA/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Ishan995/DSA/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/Ishan995/DSA/tree/master/0704-binary-search) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Ishan995/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Ishan995/DSA/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/Ishan995/DSA/tree/master/0455-assign-cookies) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Ishan995/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ishan995/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/Ishan995/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ishan995/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ishan995/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/Ishan995/DSA/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/Ishan995/DSA/tree/master/0502-ipo) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Ishan995/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0621-task-scheduler](https://github.com/Ishan995/DSA/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Ishan995/DSA/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Ishan995/DSA/tree/master/0767-reorganize-string) |
@@ -308,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Ishan995/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/Ishan995/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Ishan995/DSA/tree/master/0503-next-greater-element-ii) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Ishan995/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/Ishan995/DSA/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ishan995/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Ishan995/DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -321,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Ishan995/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Ishan995/DSA/tree/master/0503-next-greater-element-ii) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Ishan995/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/Ishan995/DSA/tree/master/0739-daily-temperatures) |
 ## Counting
 |  |
@@ -340,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Ishan995/DSA/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/Ishan995/DSA/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/Ishan995/DSA/tree/master/0502-ipo) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Ishan995/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0621-task-scheduler](https://github.com/Ishan995/DSA/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Ishan995/DSA/tree/master/0767-reorganize-string) |
 | [0860-lemonade-change](https://github.com/Ishan995/DSA/tree/master/0860-lemonade-change) |
