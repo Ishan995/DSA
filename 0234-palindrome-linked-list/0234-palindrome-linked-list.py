@@ -7,11 +7,11 @@ class Solution:
     def isPalindrome(self, head: ListNode | None) -> bool:
         slow=head
         fast=head
-        #find middle of ll
+        #find middle of ll (slow will be at middle)
         while fast and fast.next:
             slow=slow.next
             fast=fast.next.next
-        #reverse second half now(slow is at middle node)
+        #reverse second half now
         prev=None
         while slow:
             nex=slow.next
