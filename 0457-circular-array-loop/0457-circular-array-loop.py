@@ -1,6 +1,7 @@
 class Solution:
     def circularArrayLoop(self, nums: list[int]) -> bool:
         n=len(nums)
+        visited_index=set()
 
         def get_next(index,curr_dir):
             next_index=(index+nums[index])%n
@@ -10,11 +11,17 @@ class Solution:
             return next_index
 
         for i in range(n):
+
+            if i in visited_index:
+                continue
+
             slow=i
             fast=i
             curr_dir=1 if nums[i]>0 else -1
 
             while True:
+                visited_index.add(slow)
+                visited_index.add(fast)
                 slow=get_next(slow,curr_dir)
                 fast=get_next(fast,curr_dir)
 
