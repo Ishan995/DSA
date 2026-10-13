@@ -7,7 +7,7 @@ class Solution:
         q = deque()
         
         for i in range(len(nums)):
-            curr_sum += nums[i]  # FIX: Use += to build the running prefix sum
+            curr_sum += nums[i]  
 
             # Base case: if the prefix sum from index 0 is >= k
             if curr_sum >= k:
