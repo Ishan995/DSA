@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ishan995/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Ishan995/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Ishan995/DSA/tree/master/0022-generate-parentheses) |
+| [0071-simplify-path](https://github.com/Ishan995/DSA/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Ishan995/DSA/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Ishan995/DSA/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Ishan995/DSA/tree/master/0131-palindrome-partitioning) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ishan995/DSA/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/Ishan995/DSA/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ishan995/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Ishan995/DSA/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ishan995/DSA/tree/master/0144-binary-tree-preorder-traversal) |
