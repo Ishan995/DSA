@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Ishan995/DSA/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ishan995/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Ishan995/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ishan995/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Ishan995/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1631-path-with-minimum-effort](https://github.com/Ishan995/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Ishan995/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Ishan995/DSA/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/Ishan995/DSA/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ishan995/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ishan995/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1631-path-with-minimum-effort](https://github.com/Ishan995/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Sorting
 |  |
