@@ -7,10 +7,10 @@ class Solution:
             guess=(low+high)//2
             if citations[guess]==n-guess:
                 return citations[guess]
-            elif citations[guess]<n-guess:
-                low=guess+1
-            else:
+            elif citations[guess]>n-guess:
                 high=guess-1
+            else:
+                low=guess+1
 
         return n-low
         
