@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Ishan995/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Ishan995/DSA/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ishan995/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0275-h-index-ii](https://github.com/Ishan995/DSA/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Ishan995/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Ishan995/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Ishan995/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ishan995/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ishan995/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ishan995/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0275-h-index-ii](https://github.com/Ishan995/DSA/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Ishan995/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Ishan995/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ishan995/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
