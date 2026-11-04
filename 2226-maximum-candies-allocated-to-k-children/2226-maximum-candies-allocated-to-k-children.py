@@ -13,7 +13,7 @@ class Solution:
                 if c>=guess:
                     count+=c//guess
                 if count>=k:
-                    break
+                    break     #no need to search further
             if count>=k:
                 res=guess
                 low=guess+1
