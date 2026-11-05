@@ -13,9 +13,9 @@ class Solution:
                     current_weight=w
                 else:
                     current_weight+=w
-            if current_day>days:
-                low=guess+1
-            else:
+            if current_day<=days:
                 res=guess
                 high=guess-1
+            else:
+                low=guess+1
         return res
