@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ishan995/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/Ishan995/DSA/tree/master/0860-lemonade-change) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Ishan995/DSA/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/Ishan995/DSA/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0875-koko-eating-bananas](https://github.com/Ishan995/DSA/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Ishan995/DSA/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Ishan995/DSA/tree/master/0918-maximum-sum-circular-subarray) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Ishan995/DSA/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Ishan995/DSA/tree/master/0509-fibonacci-number) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ishan995/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/Ishan995/DSA/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Ishan995/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1143-longest-common-subsequence](https://github.com/Ishan995/DSA/tree/master/1143-longest-common-subsequence) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Ishan995/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Ishan995/DSA/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Ishan995/DSA/tree/master/0767-reorganize-string) |
 | [0860-lemonade-change](https://github.com/Ishan995/DSA/tree/master/0860-lemonade-change) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/Ishan995/DSA/tree/master/0871-minimum-number-of-refueling-stops) |
 ## Recursion
 |  |
 | ------- |
@@ -449,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/Ishan995/DSA/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ishan995/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Ishan995/DSA/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/Ishan995/DSA/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/Ishan995/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Ishan995/DSA/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Ishan995/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
