@@ -21,7 +21,7 @@ class Solution:
             else:
                 return node,left_depth #you can return left_depth or right_depth since both equal condition
 
-        node,_=dfs(root,0)
+        node,depth=dfs(root,0)
         return node
             
 
